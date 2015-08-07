@@ -9,6 +9,7 @@ This project provides the basic scaffolding for a Node.js-based application that
 How To Use It
 -------------
 
+0. Fork and clone this repository
 1. Place all your web resources (i.e. scripts, HTML pages, style sheets, etc.) in the <code>web</code> directory
 2. Install all dependencies by running <code>npm install</code>
 3. Start the relay server by running <code>node .</code>
