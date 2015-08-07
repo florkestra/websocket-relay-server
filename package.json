@@ -1,0 +1,18 @@
+{
+    "name": "florkestra-websocket-relay-server",
+    "main": "index.js",
+    "version": "0.1.0",
+    "description": "Relays Web Socket messages to other clients.",
+    "author": [
+        "Colin Clark",
+        "Elliott Feinberg",
+        "Adam Tindale"
+    ],
+    "dependencies": {
+        "express": "4.3.1",
+        "ws": "0.7.2"
+    },
+    "engines": {
+        "node": ">=0.10.x"
+    }
+}
